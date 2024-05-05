@@ -35,7 +35,7 @@ Código Modular e Testável: Prática resulta em código mais limpo e modular.
 
 Para executar os testes automatizados, utilize o comando:
 - npm run test
-- 
+  
 Certifique-se de ter todas as dependências do projeto instaladas antes de executar os testes.
 
 🤝 Contribuições:
