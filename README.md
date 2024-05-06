@@ -24,12 +24,11 @@ O projeto segue os princípios do TDD (Desenvolvimento Orientado a Testes), gara
 
 🛠️ Desenvolvimento Orientado a Testes (TDD):
 
-Este projeto foi desenvolvido com a metodologia do TDD, enfatizando a escrita de testes automatizados antes mesmo da implementação do código funcional. Isso resulta em um código mais confiável, robusto e fácil de manter.
-
-Testes Antes do Código: Definição do comportamento esperado antes da implementação.
-Testes Incrementais: Foco em pequenos incrementos de código testável.
-Refatoração Segura: Confiança na refatoração de código graças aos testes automatizados.
-Código Modular e Testável: Prática resulta em código mais limpo e modular.
+Este projeto foi desenvolvido com a metodologia do TDD, enfatizando a escrita de testes automatizados antes mesmo da implementação do código funcional. Isso resulta em um código mais confiável, robusto e fácil de manter, garantindo:
+- Testes Antes do Código: Definição do comportamento esperado antes da implementação.
+- Testes Incrementais: Foco em pequenos incrementos de código testável.
+- Refatoração Segura: Confiança na refatoração de código graças aos testes automatizados.
+- Código Modular e Testável: Prática resulta em código mais limpo e modular.
 
 ▶️ Execução dos Testes:
 
