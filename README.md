@@ -4,13 +4,13 @@ Este projeto é uma API desenvolvida utilizando Node.js e Express para gerenciar
 
 ## 🏗️ Estrutura do Projeto:
 
-index.js: Arquivo principal do servidor.
-controller/userController.js: Controlador para gerenciar usuários e autenticação.
-services/service.js: Módulo com funções de negócio para registro e autenticação de usuários.
-model/User.js: Definição do modelo de usuário utilizando Mongoose.
-test/: Pasta com testes automatizados.
-db/conn.js: Configuração e conexão com MongoDB.
-server.js: Inicialização do servidor.
+- `index.js` : Arquivo principal do servidor.
+- `controller/userController.js` : Controlador para gerenciar usuários e autenticação.
+- `services/service.js` : Módulo com funções de negócio para registro e autenticação de usuários.
+- `model/User.js` : Definição do modelo de usuário utilizando Mongoose.
+- `test/` : Pasta com testes automatizados.
+- `db/conn.js` : Configuração e conexão com MongoDB.
+- `server.js` : Inicialização do servidor.
 
 ## 🛣️ **Endpoints da API**
 
