@@ -41,7 +41,7 @@ Este projeto é uma API desenvolvida utilizando Node.js e Express para gerenciar
 }``
 
 - **Códigos de Resposta:**
-- 
+  
   - `200`: Registro bem-sucedido.
   - `400`: Requisição inválida ou e-mail já cadastrado.
   - `500`: Erro interno do servidor.
@@ -85,6 +85,7 @@ Este projeto é uma API desenvolvida utilizando Node.js e Express para gerenciar
     }
 }``
 - **Códigos de Resposta:**
+  
   - `200`: Autenticação bem-sucedida.
   - `403`: Credenciais inválidas.
   - `500`: Erro interno do servidor.
@@ -105,6 +106,7 @@ Este projeto é uma API desenvolvida utilizando Node.js e Express para gerenciar
 }``
 
 - **Códigos de Resposta:**
+  
   - `200`: Exclusão bem-sucedida.
   - `500`: Erro interno do servidor.
 
